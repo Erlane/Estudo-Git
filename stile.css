@@ -1,0 +1,29 @@
+body{
+	background-color: #F4A460;
+}
+p{
+	font-family: Arial , helvetiva , sans-serif;
+}
+img{
+	width: 300px;
+	height: 220px; 
+
+}
+#Titulo{
+    color: #FF0000;
+
+}
+.gosto{
+	color: #006400;
+}
+
+.brincar{
+	color: #8A2BE2;
+}
+
+.saudade{
+	color: #1E90FF;
+}
+label{
+	font-weight: 900;
+}
